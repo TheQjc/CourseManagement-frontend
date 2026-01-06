@@ -83,7 +83,7 @@ cd CourseManagement-frontend
 npm install
 
 # 启动开发服务器
-npm run serve
+npm run dev
 ```
 
 前端应用默认运行在 `http://localhost:8080`
